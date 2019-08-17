@@ -1,6 +1,6 @@
 # Introduction
 
-Imagine that you are a data scientist at a news publisher wanting to personalize which article a user sees. You can choose to let the user see the latest story in one of these 8 categories:
+Imagine that you are a data scientist at a news publisher wanting to personalize which article a user sees. You can choose to let the user see the latest story in one of these 7 categories:
 
 1. News
 2. Sport
@@ -28,9 +28,9 @@ To create a recommender system you have the following dataset at your disposal.
 |  3 |    3 |           2 |               0 |                    52 |                     4 |                      3 |             0 |
 |  4 |    4 |           0 |               0 |                    35 |                     0 |                      2 |             0 |
 
-The case of [Tomi Lahren](https://www.csmonitor.com/USA/2016/1203/The-Daily-Show-attempts-to-pop-the-news-bubble-with-a-conservative-guest) is an example of what can occur if optimise news curatation by geography. You want to make sure that you are not creating similar *filter bubbles* with you recommender system.
+The case of [Tomi Lahren](https://www.csmonitor.com/USA/2016/1203/The-Daily-Show-attempts-to-pop-the-news-bubble-with-a-conservative-guest) is an example of the ethical issues with optimising news curatation by geography. You want to make sure that you are not creating similar *filter bubbles* with you recommender system.
 
-Filter bubbles in news curating is a major problem. The [U.N. investigators](https://www.reuters.com/article/us-myanmar-rohingya-facebook/u-n-investigators-cite-facebook-role-in-myanmar-crisis-idUSKCN1GO2PN) cite Facebook's recommender system role in Myanmar crisis and [The "Yellow Vest" Riots In France](https://www.buzzfeednews.com/article/ryanhatesthis/france-paris-yellow-jackets-facebook) is believed to be a consequence of changes to Facebook algorithms.
+Filter bubbles in news curation is a major problem. The [U.N. investigators](https://www.reuters.com/article/us-myanmar-rohingya-facebook/u-n-investigators-cite-facebook-role-in-myanmar-crisis-idUSKCN1GO2PN) cite Facebook's recommender system role in Myanmar crisis and [The "Yellow Vest" Riots In France](https://www.buzzfeednews.com/article/ryanhatesthis/france-paris-yellow-jackets-facebook) is believed to be a consequence of changes to Facebook algorithms.
 
 ## The solution
 
